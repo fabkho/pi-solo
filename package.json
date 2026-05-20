@@ -1,5 +1,5 @@
 {
-  "name": "pi-solo",
+  "name": "pi-soloterm",
   "version": "0.1.0",
   "type": "module",
   "description": "Pi extensions for Soloterm — agent orchestration, dispatch, and fork workflows",
